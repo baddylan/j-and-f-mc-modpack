@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:55188d0350a839a08f6a2b69add54591ec41b99dda7978bb518b84b613eabf76
-size 200
+# J&amp;F MC modpack
+Repo for the J&amp;F Minecraft Modpack
+
+Check [here](Full-Mod-List.md) for a list of all the pack mods.
+
+For instructions on installing the server, check [here](Server-Install.md)

@@ -1,4 +1,0 @@
-J&F[[:space:]]Custom[[:space:]]Modpack[[:space:]]v0.0.3.mrpack filter=lfs diff=lfs merge=lfs -text
-*.md filter=lfs diff=lfs merge=lfs -text
-*.mrpack filter=lfs diff=lfs merge=lfs -text
-/LICENSE filter=lfs diff=lfs merge=lfs -text
