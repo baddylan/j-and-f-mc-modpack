@@ -32,7 +32,7 @@
 - [Moving Elevators](https://modrinth.com/mod/9KZOe6HD) - Moving Elevators adds real Elevators to Minecraft!
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) - Makes chat unreportable (where possible)
 - [No Unused Chunks](https://modrinth.com/mod/U8avpWmO) - A Minecraft mod that reduces world size by discarding unused chunks.
-- [Oculus](https://modrinth.com/mod/GchcoXML) - Unofficial Fork of "Iris", made to work with FML
+- [Oculus](https://modrinth.com/mod/GchcoXML) - Unofficial Fork of "Iris", made to work with FML (Client side only!)
 - [Phosphophyllite](https://www.curseforge.com/minecraft/mc-mods/phosphophyllite) - Library for the BiggerSeries of mods.
 - [Plasmo Voice](https://modrinth.com/mod/1bZhdhsH) - A proximity voice chat mod with audio positioning and lots of features
 - [PolyLib](https://www.curseforge.com/minecraft/mc-mods/polylib) - A Minecraft lib used for all of CreeperHosts mods
@@ -40,7 +40,7 @@
 - [Quartz](https://www.curseforge.com/minecraft/mc-mods/quartz) - Quartz rendering library
 - [Rechiseled](https://modrinth.com/mod/B0g2vT6l) - Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!
 - [Roughly Enough Items (REI)](https://modrinth.com/mod/nfn13YXA) - Clean and Customizable. Alternative to Just Enough Items/JEI.
-- [Rubidium](https://modrinth.com/mod/4ZqxOvjD) - Unofficial Fork of CaffeineMC's "Sodium", made to work with FML
+- [Rubidium](https://modrinth.com/mod/4ZqxOvjD) - Unofficial Fork of CaffeineMC's "Sodium", made to work with FML (Client side only!)
 - [spark](https://modrinth.com/mod/l6YH9Als) - spark is a performance profiler for Minecraft clients, servers and proxies.
 - [SuperMartijn642's Config Lib](https://modrinth.com/mod/LN9BxssP) - Config Lib makes dealing with config files just a bit easier.
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) - SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!
