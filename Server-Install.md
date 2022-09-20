@@ -1,5 +1,3 @@
-# Server installation instructions
-
-<details><summary>IMPORTANT - READ THIS FIRST!!</summary>
-You will need to install [Forge version 1.19.2-43.1.3](https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.2-43.1.3/forge-1.19.2-43.1.3-installer.jar) in an empty directory where you want to install the server!
-</details>
+version https://git-lfs.github.com/spec/v1
+oid sha256:4511c674a862af2ab760d8b0bc084581850ed69414ed185e09dc730cc410bcec
+size 327
